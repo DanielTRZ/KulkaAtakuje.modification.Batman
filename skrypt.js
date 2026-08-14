@@ -13,7 +13,6 @@
 
 
 
-
 var can = document.getElementById('gra');
 var ctx = can.getContext('2d');
 var GrafikaPlatformy = new Image();
